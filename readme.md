@@ -5,4 +5,4 @@ Pretty simple, just download the latest update.bin file from the Releases. Then,
 There is a config file you can edit with KOReader, here is the default connection info:  
 ```
 username: root
-password: kindle```
+password: kindle
