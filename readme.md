@@ -1,8 +1,13 @@
 simple usbnet for kindle -- only stuff you **NEED**
 # Installation Instructions
-Pretty simple, just download the latest update.bin file from the Releases. Then, place it in the mrpackages folder from the root directory. All thats left to do is open the Helper Menu from KUAL, and click install mrpackages.
+1. Download the `update.bin` file from Released
+2. Place it into the `mrpackages` folder on your kindle
+3. Run `;log mrpi` from the search bar
+4. Profit! You should be able to control usbnetlite from KUAL
+
 # Connection Info
 There is a config file you can edit with KOReader, here is the default connection info:  
 ```
 username: root
 password: kindle
+```
